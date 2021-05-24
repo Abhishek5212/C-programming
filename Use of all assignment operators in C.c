@@ -1,4 +1,3 @@
-// Working of assignment operators
 #include <stdio.h>
 int main()
 {

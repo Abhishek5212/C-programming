@@ -1,10 +1,8 @@
 #include <stdio.h>
-/* function declaration */
 void swap(int x, int y);
  
-int main () {
-
-   /* local variable definition */
+int main () 
+{
    int m = 50;
    int n = 670;
  
